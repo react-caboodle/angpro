@@ -1,0 +1,6 @@
+{
+  "githubPullRequests.remotes": [
+    "git@github.com:react-caboodle/angpro.git",
+    "upstream"
+  ]
+}
